@@ -1,0 +1,2 @@
+1、查看版本信息：命令 -v/version
+举例： php -v     composer -v
