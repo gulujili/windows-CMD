@@ -1,2 +1,2 @@
 # windows-CMD
-记录cmd用到的名利
+记录cmd用到的命令
