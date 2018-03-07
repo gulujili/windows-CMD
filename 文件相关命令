@@ -1,0 +1,22 @@
+1、查看版本信息：
+命令： -v/version
+举例： php -v     composer -v
+2、创建空文件夹：
+命令：md/mkdir <forlderName> 
+举例：md c:\test\myfolder
+2.1、创建非空文件夹：
+命令：echo [fileContent]>*.*
+举例：echo myname>a.txt
+3、删除文件夹：
+rd/rmdir 完整命令（rd /s /q [盘符:\][路径\] 新目录名）
+解释：rd只能删除空文件夹，这是需加上/s就可以直接删除，
+但是删除过程中会提示你是否确定删除，对于懒癌患者我们又添加了/q,即quiet，安静模式；
+举例：rd /s /q c:\test\myfolder
+4、创建空文件：
+命令：type nul>*.*
+举例：type nul>myfile.txt 
+     type nul>.test(不带文件名的文件)
+5、删除文件：
+命令：del *.*
+举例：del myfile.txt
+        
