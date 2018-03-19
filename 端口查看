@@ -1,0 +1,2 @@
+1、windows下查看哪些端口被占用
+cmd -> netstat -ano;
