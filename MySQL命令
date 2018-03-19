@@ -1,0 +1,6 @@
+1、登录mysql
+   进入mysql的安装目录，然后进入bin目录，
+   输入mysql -uroot -p 
+   输入密码（mysql的默认密码为空),当显示MySQL> 子样，表示mysql安装成功，并且进入mysql
+2、显示数据库
+   show datebases;
